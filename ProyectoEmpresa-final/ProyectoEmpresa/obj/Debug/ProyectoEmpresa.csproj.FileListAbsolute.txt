@@ -1,0 +1,24 @@
+c:\users\aleja\documents\visual studio 2013\Projects\ProyectoEmpresa\ProyectoEmpresa\bin\Debug\ProyectoEmpresa.exe.config
+c:\users\aleja\documents\visual studio 2013\Projects\ProyectoEmpresa\ProyectoEmpresa\bin\Debug\ProyectoEmpresa.exe
+c:\users\aleja\documents\visual studio 2013\Projects\ProyectoEmpresa\ProyectoEmpresa\bin\Debug\ProyectoEmpresa.pdb
+c:\users\aleja\documents\visual studio 2013\Projects\ProyectoEmpresa\ProyectoEmpresa\obj\Debug\ProyectoEmpresa.csprojResolveAssemblyReference.cache
+c:\users\aleja\documents\visual studio 2013\Projects\ProyectoEmpresa\ProyectoEmpresa\obj\Debug\ProyectoEmpresa.exe
+c:\users\aleja\documents\visual studio 2013\Projects\ProyectoEmpresa\ProyectoEmpresa\obj\Debug\ProyectoEmpresa.pdb
+C:\Users\aleja\Desktop\ProyectoEmpresa\ProyectoEmpresa\bin\Debug\ProyectoEmpresa.exe.config
+C:\Users\aleja\Desktop\ProyectoEmpresa\ProyectoEmpresa\obj\Debug\ProyectoEmpresa.exe
+C:\Users\aleja\Desktop\ProyectoEmpresa\ProyectoEmpresa\obj\Debug\ProyectoEmpresa.pdb
+C:\Users\aleja\Desktop\ProyectoEmpresa\ProyectoEmpresa\bin\Debug\ProyectoEmpresa.exe
+C:\Users\aleja\Desktop\ProyectoEmpresa\ProyectoEmpresa\bin\Debug\ProyectoEmpresa.pdb
+C:\Users\aleja\Desktop\ProyectoEmpresa\ProyectoEmpresa\obj\Debug\ProyectoEmpresa.csprojResolveAssemblyReference.cache
+C:\Users\aleja\Desktop\ProyectoEmpresa - copia\ProyectoEmpresa\bin\Debug\ProyectoEmpresa.exe.config
+C:\Users\aleja\Desktop\ProyectoEmpresa - copia\ProyectoEmpresa\obj\Debug\ProyectoEmpresa.exe
+C:\Users\aleja\Desktop\ProyectoEmpresa - copia\ProyectoEmpresa\obj\Debug\ProyectoEmpresa.pdb
+C:\Users\aleja\Desktop\ProyectoEmpresa - copia\ProyectoEmpresa\obj\Debug\ProyectoEmpresa.csprojResolveAssemblyReference.cache
+C:\Users\aleja\Desktop\ProyectoEmpresa - copia\ProyectoEmpresa\bin\Debug\ProyectoEmpresa.exe
+C:\Users\aleja\Desktop\ProyectoEmpresa - copia\ProyectoEmpresa\bin\Debug\ProyectoEmpresa.pdb
+C:\Users\B6-JU\Documents\Escuela\7° Semestre\ProgramacionAvanzada\ProyectoEmpresa-final\ProyectoEmpresa\bin\Debug\ProyectoEmpresa.exe.config
+C:\Users\B6-JU\Documents\Escuela\7° Semestre\ProgramacionAvanzada\ProyectoEmpresa-final\ProyectoEmpresa\bin\Debug\ProyectoEmpresa.exe
+C:\Users\B6-JU\Documents\Escuela\7° Semestre\ProgramacionAvanzada\ProyectoEmpresa-final\ProyectoEmpresa\bin\Debug\ProyectoEmpresa.pdb
+C:\Users\B6-JU\Documents\Escuela\7° Semestre\ProgramacionAvanzada\ProyectoEmpresa-final\ProyectoEmpresa\obj\Debug\ProyectoEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\B6-JU\Documents\Escuela\7° Semestre\ProgramacionAvanzada\ProyectoEmpresa-final\ProyectoEmpresa\obj\Debug\ProyectoEmpresa.exe
+C:\Users\B6-JU\Documents\Escuela\7° Semestre\ProgramacionAvanzada\ProyectoEmpresa-final\ProyectoEmpresa\obj\Debug\ProyectoEmpresa.pdb
